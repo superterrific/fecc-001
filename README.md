@@ -1,6 +1,6 @@
-# Frontend Challenges Club 001 challenge
+# Front-end Challenges Club 001 challenge
 
- First challenge for the Frontend Challenges Club.
+ First challenge for the Front-end Challenges Club.
 
  ## Links 🔗
  [Challenge info](https://front-end-challenges.club/challenge-001-email-sign-up-form/)
@@ -9,4 +9,4 @@
 
  [Challenge Submission](https://superterrific.github.io/fecc-001/)
 
- Frontend Challenge Club is created by [Andy Bell](https://hankchizljaw.com/), [sign up here](https://front-end-challenges.club/)!
+ Front-end Challenge Club is created by [Andy Bell](https://hankchizljaw.com/), [sign up here](https://front-end-challenges.club/)!
